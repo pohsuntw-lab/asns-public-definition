@@ -166,6 +166,7 @@ This repository publicly describes the architectural principles of ASNS, vCAN, E
 See [`COPYRIGHT.md`](./COPYRIGHT.md) for the rights statement.
 
 © 2026 Embodied Worker Co., Ltd.
+
 This public white paper and its accompanying Markdown, PDF, and DOCX files are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
