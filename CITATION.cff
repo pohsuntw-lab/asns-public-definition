@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use or discuss this work, please cite it as below."
 title: "Before AI Enters the Physical World: How ASNS Turns Industrial Data into Replayable Time-Series Evidence"
 type: report
-version: "1.2"
+version: "1.2.2"
 date-released: 2026-08-18
-doi: "10.5281/zenodo.21989554"
+doi: "10.5281/zenodo.21989553"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21989553"
@@ -15,7 +15,7 @@ authors:
 publisher:
   name: "Embodied Worker Co., Ltd."
 repository-code: "https://github.com/pohsuntw-lab/asns-public-definition"
-url: "https://doi.org/10.5281/zenodo.21989554"
+url: "https://doi.org/10.5281/zenodo.21989553"
 abstract: >-
   A public architectural definition of ASNS, an evidence-first physical-world
   data infrastructure for industrial AI built on stable channel identity,

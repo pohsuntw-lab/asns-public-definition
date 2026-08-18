@@ -124,6 +124,8 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 
 **Version 1.2 · Published August 18, 2026**
 
+**Release package 1.2.2 · Packaging correction only; white paper content remains Version 1.2.**
+
 | Language | Searchable Markdown | PDF | Editable document |
 |---|---|---|---|
 | Traditional Chinese | [Read online](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.md) | [Download PDF](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.pdf) | [Download DOCX](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.docx) |
@@ -134,11 +136,10 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 ```text
 CHUEH, P. (2026). Before AI Enters the Physical World: How ASNS Turns
 Industrial Data into Replayable Time-Series Evidence (Version 1.2).
-Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989554
+Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989553
 ```
 
-- **Version 1.2 DOI:** [10.5281/zenodo.21989554](https://doi.org/10.5281/zenodo.21989554)
-- **Concept DOI for all versions:** [10.5281/zenodo.21989553](https://doi.org/10.5281/zenodo.21989553)
+- **Permanent DOI for all versions:** [10.5281/zenodo.21989553](https://doi.org/10.5281/zenodo.21989553)
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
