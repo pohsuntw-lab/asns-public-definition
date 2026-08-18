@@ -4,13 +4,18 @@ title: "Before AI Enters the Physical World: How ASNS Turns Industrial Data into
 type: report
 version: "1.2"
 date-released: 2026-08-18
+doi: "10.5281/zenodo.21989554"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21989553"
+    description: "Concept DOI for all versions"
 authors:
   - family-names: "CHUEH"
     given-names: "POHSUN"
 publisher:
   name: "Embodied Worker Co., Ltd."
 repository-code: "https://github.com/pohsuntw-lab/asns-public-definition"
-url: "https://github.com/pohsuntw-lab/asns-public-definition"
+url: "https://doi.org/10.5281/zenodo.21989554"
 abstract: >-
   A public architectural definition of ASNS, an evidence-first physical-world
   data infrastructure for industrial AI built on stable channel identity,

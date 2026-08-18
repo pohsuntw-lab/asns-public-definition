@@ -1,5 +1,7 @@
 # ASNS — AI Sensory Neural System
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21989554.svg)](https://doi.org/10.5281/zenodo.21989554)
+
 **Evidence before inference. Replay before trust.**
 
 ASNS is an evidence-first architecture for industrial AI. It turns physical-world signals into traceable, replayable, and verifiable time-series evidence before the data is used by AI.
@@ -130,10 +132,13 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 ## Citation
 
 ```text
-CHUEH POHSUN. “Before AI Enters the Physical World: How ASNS Turns Industrial
-Data into Replayable Time-Series Evidence.” Embodied Worker Co., Ltd.,
-version 1.2, August 18, 2026.
+CHUEH, P. (2026). Before AI Enters the Physical World: How ASNS Turns
+Industrial Data into Replayable Time-Series Evidence (Version 1.2).
+Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989554
 ```
+
+- **Version 1.2 DOI:** [10.5281/zenodo.21989554](https://doi.org/10.5281/zenodo.21989554)
+- **Concept DOI for all versions:** [10.5281/zenodo.21989553](https://doi.org/10.5281/zenodo.21989553)
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
