@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "Before AI Enters the Physical World: How ASNS Turns Industrial Data into Replayable Time-Series Evidence"
+type: report
+version: "1.2"
+date-released: 2026-08-18
+authors:
+  - family-names: "CHUEH"
+    given-names: "POHSUN"
+publisher:
+  name: "Embodied Worker Co., Ltd."
+repository-code: "https://github.com/pohsuntw-lab/asns-public-definition"
+url: "https://github.com/pohsuntw-lab/asns-public-definition"
+abstract: >-
+  A public architectural definition of ASNS, an evidence-first physical-world
+  data infrastructure for industrial AI built on stable channel identity,
+  explicit time semantics, objective acquisition state, source lineage,
+  versioned computation, reviewed knowledge, and historical replay.
+keywords:
+  - ASNS
+  - AI Sensory Neural System
+  - Evidence-First AI
+  - Physical AI
+  - Industrial AI
+  - vCAN
+  - EdgeAI Data Core
+  - time-series evidence
+  - channel identity
+  - historical replay
