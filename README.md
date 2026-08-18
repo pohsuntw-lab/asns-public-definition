@@ -124,8 +124,8 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 
 | Language | Searchable Markdown | PDF | Editable document |
 |---|---|---|---|
-| Traditional Chinese | [Read online](./docs/ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.md) | [Download PDF](./docs/ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.pdf) | [Download DOCX](./docs/ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.docx) |
-| English | [Read online](./docs/ASNS_Public_Definition_White_Paper_v1.2_EN.md) | [Download PDF](./docs/ASNS_Public_Definition_White_Paper_v1.2_EN.pdf) | [Download DOCX](./docs/ASNS_Public_Definition_White_Paper_v1.2_EN.docx) |
+| Traditional Chinese | [Read online](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.md) | [Download PDF](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.pdf) | [Download DOCX](./ASNS_Public_Definition_White_Paper_v1.2_ZH-TW.docx) |
+| English | [Read online](./ASNS_Public_Definition_White_Paper_v1.2_EN.md) | [Download PDF](./ASNS_Public_Definition_White_Paper_v1.2_EN.pdf) | [Download DOCX](./ASNS_Public_Definition_White_Paper_v1.2_EN.docx) |
 
 ## Citation
 
