@@ -26,7 +26,7 @@ A value and a timestamp alone cannot reliably answer:
 - Was the original observation preserved after cleaning and calculation?
 - Can a conclusion be replayed and independently verified?
 
-ASNS provides the evidence layer required to answer these questions.
+ASNS proposes an evidence layer designed to answer these questions.
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,7 @@ flowchart TD
 | **vCAN** — Volapük CANBUS | Identity-aware sensing and communication based on CAN 2.0B |
 | **EDC** — EdgeAI Data Core | Edge-side L1 evidence memory with read-only query interfaces |
 | **Tagger** | Engineering workspace for replay, annotation, golden baselines, and reviewed knowledge formation |
-| **L1** | User-immutable original acquisition records |
+| **L1** | Original acquisition records that are not overwritable through supported user interfaces |
 | **L2** | Versioned and recalculable transformations, features, and behavior models |
 | **L3** | Human-reviewed knowledge linked back to evidence |
 
@@ -137,6 +137,8 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 CHUEH, P. (2026). Before AI Enters the Physical World: How ASNS Turns
 Industrial Data into Replayable Time-Series Evidence (Version 1.2).
 Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989553
+- **White paper content version:** 1.2
+- **Current repository release package:** 1.2.2
 ```
 
 - **Permanent DOI for all versions:** [10.5281/zenodo.21989553](https://doi.org/10.5281/zenodo.21989553)
@@ -161,4 +163,10 @@ This repository publicly describes the architectural principles of ASNS, vCAN, E
 
 See [`COPYRIGHT.md`](./COPYRIGHT.md) for the rights statement.
 
-© 2026 Embodied Worker Co., Ltd. All rights reserved.
+© 2026 Embodied Worker Co., Ltd.
+
+This public white paper and its accompanying Markdown, PDF, and DOCX files are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
+
+Technical architecture: KangarooTEC.
