@@ -4,7 +4,9 @@
 
 **Evidence before inference. Replay before trust.**
 
-ASNS is an evidence-first architecture for industrial AI. It turns physical-world signals into traceable, replayable, and verifiable time-series evidence before the data is used by AI.
+ASNS (AI Sensory Neural System) is an evidence-first architecture for industrial AI. It structures channel identity, time semantics, acquisition state, source lineage, and configuration context at or before database ingestion, turning physical-world signals into traceable, replayable, and verifiable time-series evidence before the data is used by AI.
+
+Rather than relying solely on post-ingestion structuring in SCADA, historian, ETL, or industrial data-platform workflows, ASNS preserves evidence context from the acquisition boundary.
 
 > AI needs more than data. It needs evidence.
 
@@ -135,12 +137,12 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 
 ```text
 CHUEH, P. (2026). Before AI Enters the Physical World: How ASNS Turns
-Industrial Data into Replayable Time-Series Evidence (Version 1.2).
+Industrial Data into Replayable Time-Series Evidence.
 Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989553
-- **White paper content version:** 1.2
-- **Current repository release package:** 1.2.2
 ```
 
+- **White paper content version:** 1.2
+- **Current repository release package:** 1.2.2
 - **Permanent DOI for all versions:** [10.5281/zenodo.21989553](https://doi.org/10.5281/zenodo.21989553)
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
@@ -164,8 +166,11 @@ This repository publicly describes the architectural principles of ASNS, vCAN, E
 See [`COPYRIGHT.md`](./COPYRIGHT.md) for the rights statement.
 
 © 2026 Embodied Worker Co., Ltd.
-
 This public white paper and its accompanying Markdown, PDF, and DOCX files are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
+
+Technical architecture: KangarooTEC.
 
 Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
 
