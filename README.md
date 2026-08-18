@@ -171,7 +171,3 @@ This public white paper and its accompanying Markdown, PDF, and DOCX files are l
 Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
 
 Technical architecture: KangarooTEC.
-
-Reuse is permitted with proper attribution. This license does not grant rights to patents, trademarks, proprietary protocols, firmware, source code, internal frame formats, algorithms, product implementations, or undisclosed technical details.
-
-Technical architecture: KangarooTEC.
