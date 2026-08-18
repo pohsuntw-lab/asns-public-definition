@@ -1,6 +1,6 @@
 # ASNS — AI Sensory Neural System
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21989554.svg)](https://doi.org/10.5281/zenodo.21989554)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21989553.svg)](https://doi.org/10.5281/zenodo.21989553)
 
 **Evidence before inference. Replay before trust.**
 
