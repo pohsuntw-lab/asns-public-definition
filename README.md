@@ -138,7 +138,7 @@ AI may revise its interpretation. It may not revise the historical evidence to m
 ```text
 CHUEH, P. (2026). Before AI Enters the Physical World: How ASNS Turns
 Industrial Data into Replayable Time-Series Evidence.
-Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21989553
+Embodied Worker Co., Ltd. https://doi.org/10.5281/zenodo.21991117
 ```
 
 - **White paper content version:** 1.2
