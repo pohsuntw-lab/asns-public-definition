@@ -155,7 +155,7 @@ ASNS, AI Sensory Neural System, vCAN, Volapük CANBUS, EDC, EdgeAI Data Core, Ta
 
 - **Author:** CHUEH POHSUN
 - **Publisher:** Embodied Worker Co., Ltd.（具象職人股份有限公司）
-- **Technical architecture:** KangarooTEC
+- **Technical architecture:** Kangaroo TEC Corporation （肯革陸科技有限公司）
 
 ## Technical Notice
 
